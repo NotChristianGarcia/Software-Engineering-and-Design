@@ -1,0 +1,7 @@
+{
+  "hw4.py::test_b3CheckJSON[end=abc]": true,
+  "hw4.py::test_b3CheckJSON[limit=-1]": true,
+  "hw4.py::test_b3CheckJSON[offset]": true,
+  "hw4.py::test_b3CheckJSON[start=1770&limit=20]": true,
+  "hw4.py::test_b3CheckJSON[start=abc]": true
+}

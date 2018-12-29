@@ -1,4 +1,4 @@
-### Software Engineering and Design
+## Software Engineering and Design
 **Date:** Fall 2018  
 **Description:**  
 This is my class repository for Software Engineering and Design at The University of Texas at Austin. This is copied over from bitbucket where it was used.  
